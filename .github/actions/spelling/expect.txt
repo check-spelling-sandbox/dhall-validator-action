@@ -1,11 +1,12 @@
+Cwd
 dhall
 elsif
 haskell
 jsoref
 mktemp
-perl
-pne
 pwd
 undef
+validator
+workflows
 xargs
 yaml
